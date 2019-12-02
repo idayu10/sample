@@ -1,0 +1,5 @@
+http://iyemon018.hatenablog.com/entry/2017/09/07/143507
+
+cd ~/qmk_firmware/  
+sudo make keyboard=ergodox_ez keymap=default
+ls .build/ergodox_ez_default.hex
